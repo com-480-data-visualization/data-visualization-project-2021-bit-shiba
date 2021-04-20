@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
-| | |
-| | |
+| Chenkai Wang | 323452 |
+| Jingrong Chen | 313033 |
+| Siran Li | |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
@@ -32,6 +32,7 @@ Please, fill the following sections about your project.
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
+>
 > - Show some basic statistics and get insights about the data
 
 ### Related work
