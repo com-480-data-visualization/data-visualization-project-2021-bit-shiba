@@ -139,6 +139,10 @@ From the above figure, we can see that the “Water” type of Pokémon has the 
 | ------------------------------------------- | ------------------------------------------- |
 |                                             |                                             |
 
+
+From the above figures, we can know that most Pokémon are 0.2~2m tall and weigh 0~50kg.  More than 300 Pokémon are between 0.4~0.8m and less than 15kg. Statistically, most of them are very small, like Shiba or sheep. Few of them are very big or heavy, and the highest is 100m, the two heaviest are 999.9kg. Conversely, the shortest Pokémons are 0.1m, and the lightest are 0.1kg. In order to show the figure more clearly, we omitted three Pokémons, ('Eternatus Eternamax','Eternatus' and 'Wailord').
+
+
 ### Related work
 
 
