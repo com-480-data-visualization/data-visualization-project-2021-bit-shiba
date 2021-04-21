@@ -19,8 +19,6 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
-
 [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) shortened from Pocket Monster, is any of the documented species of the organisms that have evolved and inhabited the fictional “Pokémon World” with an innate connection to element-based supernatural powers. Officially, Pokémon is a Japanese media franchise managed by The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures. This year is in commemoration of the twenty-fifth anniversary of the Pokémon franchise, which began with the original Japanese release of [Pocket Monsters Red and Green](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Green) for the Game Boy on February 27, 1996. 
 
 
@@ -33,27 +31,27 @@ We get our dataset from Kaggle, and its original resource is from https://serebi
 
 
 
-\- Pokedex_number: The ID number of documented Pokémon in the National Pokedex
+\- **Pokedex_number**: The ID number of documented Pokémon in the National Pokedex
 
-\- Name: The English name of the Pokémon
+\- **Name**: The English name of the Pokémon
 
-\- Generation: The numbered generation which the Pokémon was first introduced
+\- **Generation**: The numbered generation which the Pokémon was first introduced
 
-\- Status: The status of the Pokémon (A categorical feature contains: normal, sub-legendary, legendary, mythical)
+\- **Status**: The status of the Pokémon (A categorical feature contains: normal, sub-legendary, legendary, mythical)
 
-\- Species: The species of the Pokémon
+\- **Species**: The species of the Pokémon
 
-\- Hp/ Attack/ Defense/ Sp_attack/ Sp_defense/ Speed: The Base HP/ Attack/ Defense/ Special Attack/ Special Defense/ Speed value of the Pokémon
+\- **Hp/ Attack/ Defense/ Sp_attack/ Sp_defense/ Speed**: The Base HP/ Attack/ Defense/ Special Attack/ Special Defense/ Speed value of the Pokémon
 
-\- Height_m/ Weight_kg: The Height/ Weight of the Pokémon
+\- **Height_m/ Weight_kg**: The Height/ Weight of the Pokémon
 
-\- Against_?: Eighteen features that denote the relationship of damages taken against an attack of a particular type
+\- **Against_?**: Eighteen features that denote the relationship of damages taken against an attack of a particular type
 
-\- Abilities: A stringified list of abilities that the Pokémon is capable of having
+\- **Abilities**: A stringified list of abilities that the Pokémon is capable of having
 
-\- type_1/ tpye_2: The Primary/ Secondary type of the Pokémon
+\- **type_1/ tpye_2**: The Primary/ Secondary type of the Pokémon
 
-\- Percentage_male: The percentage of the species that are male. Nan if the Pokémon is genderless
+\- **Percentage_male**: The percentage of the species that are male. Nan if the Pokémon is genderless
 
 
 
@@ -63,19 +61,89 @@ To assess the dataset, the dataset is quite accurate and relatively clear. There
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+The era of data refreshes the way people explore the unknown, from basic construction to aerospace engineering. Prof Oak from Pallet Town keeps searching and helping Pokémon Trainer to train their Pokémon. He invented Pokédex to show basic instructions and simple analysis of Pokémon, including Pokémon’s height, weight, characteristics, etc. But
+
+We, as Pokémon trainers,  always dream to be Pokémon Masters since we were children. So just analyzing the data of a single Pokémon is far from satisfying my needs.
+
+
+
+Now as the Pokémon data scientists in Pallet Town, we want to help our children and rookies to explore the Pokémon world easily. We would like to give them some advice on how to choose their Pokémon. We want an elegant way to show them Pokémon’s characteristics and capabilities by using interactive graphs and tables instead of numbers.
+
+
+
+Therefore we think about multiple views we would like to cover.
+
+
+
+* Which Pokémon suits them best? 
+
+* And which Pokémon are ahead of the game in the battle?
+
+* How to choose a good team from thousands of Pokémon?
+
+* To capture our own Pokémon, which one is easier to tame?
+
+* How to present their characters and stories in good ways?
+
+* What kind of Pokémon will restrain each other?   
+
+ ……
+
+
+
+We have 1028 Pokémon and each of them has 48 different characters. There are a lot of mysteries about them waiting for us to discover.
+
+
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
->
-> - Show some basic statistics and get insights about the data
+***\*Let’s take a quick look at Pokémon first!\****
+
+![the number of pokemons of different generations](assets/1.png)
+
+
+
+We counted the number of Pokémon of different generations and the number of different statuses corresponding to each generation. The first generation is the largest, but it has no mythical status. If we want to find the mythical Pokémon, we have a better chance in the third to the seventh generation. Compared with other generations, the number of Pokémon in the seventh generation is not larger, but we have the highest chance to get the non-normal status of Pokémon. 
+
+
+
+What words are most common in Pokémon’s species and abilities?
+
+
+
+![worldcloud](assets/2.png)
+
+
+
+Pokémon comes in a wide variety of species and abilities. These lively and vigorous elves formed a new fantastic and compelling world, which attracts us to continuously explore.
+
+
+
+***\*Then, let us focus on the distribution of the primary type of Pokémon.\****
+
+
+
+![primary type of Pokémon](assets/3.png)
+
+
+
+From the above figure, we can see that the “Water” type of Pokémon has the most types, followed by the “Normal” type and “Grass” type, th the “Flying” type is the least kind of Pokémon.
+
+
+
+
+
+***\*How tall and how heavy are Pokémons?\****
+
+| ![the distribution of height](assets/4.png) | ![the distribution of weight](assets/5.png) |
+| ------------------------------------------- | ------------------------------------------- |
+|                                             |                                             |
 
 ### Related work
 
-## What others have already done with the data?
+
+
+##### What others have already done with the data?
 
 
 
@@ -91,7 +159,7 @@ These previous works mainly focus on presenting Pokémon's characteristics about
 
 
 
-## Why is our approach original?
+##### Why is our approach original?
 
 
 
@@ -99,7 +167,7 @@ We want to offer an interactive way to visualize our data, our visualizations wi
 
 
 
-## To conduct the visualization work, our Inspiration mainly comes from:
+##### To conduct the visualization work, our Inspiration mainly comes from:
 
 
 
