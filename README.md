@@ -119,7 +119,7 @@ Pokémon comes in a wide variety of species and abilities. These lively and vigo
 
 
 
-***\*Then, let us focus on the distribution of the primary type of Pokémon.\****
+**Then, let us focus on the distribution of the primary type of Pokémon.**
 
 
 
@@ -133,7 +133,7 @@ From the above figure, we can see that the “Water” type of Pokémon has the 
 
 
 
-***\*How tall and how heavy are Pokémons?\****
+**How tall and how heavy are Pokémons?**
 
 | ![the distribution of height](assets/4.png) | ![the distribution of weight](assets/5.png) |
 | ------------------------------------------- | ------------------------------------------- |
