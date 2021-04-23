@@ -61,9 +61,7 @@ To assess the dataset, the dataset is quite accurate and relatively clear. There
 
 ### Problematic
 
-The era of data refreshes the way people explore the unknown, from basic construction to aerospace engineering. Prof Oak from Pallet Town keeps searching and helping Pokémon Trainer to train their Pokémon. He invented Pokédex to show basic instructions and simple analysis of Pokémon, including Pokémon’s height, weight, characteristics, etc. But
-
-We, as Pokémon trainers,  always dream to be Pokémon Masters since we were children. So just analyzing the data of a single Pokémon is far from satisfying my needs.
+The era of data refreshes the way people explore the unknown, from basic construction to aerospace engineering. Prof Oak from Pallet Town keeps searching and helping Pokémon Trainer to train their Pokémon. He invented Pokédex to show basic instructions and simple analysis of Pokémon, including Pokémon’s height, weight, characteristics, etc. But We, as Pokémon trainers,  always dream to be Pokémon Masters since we were children. So just analyzing the data of a single Pokémon is far from satisfying my needs.
 
 
 
@@ -97,7 +95,7 @@ We have 1028 Pokémon and each of them has 48 different characters. There are a 
 
 ### Exploratory Data Analysis
 
-***\*Let’s take a quick look at Pokémon first!\****
+**Let’s take a quick look at Pokémon first!**
 
 ![the number of pokemons of different generations](assets/1.png)
 
@@ -107,7 +105,7 @@ We counted the number of Pokémon of different generations and the number of dif
 
 
 
-What words are most common in Pokémon’s species and abilities?
+**What words are most common in Pokémon’s species and abilities?**
 
 
 
@@ -127,21 +125,67 @@ Pokémon comes in a wide variety of species and abilities. These lively and vigo
 
 
 
-From the above figure, we can see that the “Water” type of Pokémon has the most types, followed by the “Normal” type and “Grass” type, th the “Flying” type is the least kind of Pokémon.
+From the above figure, we can see that the “Water” type of Pokémon has the most. This is very similar to the fact that about 70% of the earth’s surface is the ocean. In reality, the base of marine life is indeed very large. In this case, it is not surprising that there are many Pokémon that are the water type. However, the water family is big, and the competition is also great.
 
 
 
+Then followed by the “Normal” type and “Grass” type, and the “ Flying” type is the least kind of Pokémon. In the settings of the Pokémon game, the flight type is the least among all Pokémon with a single type, and it is also the type with the most combination of the second attribute. The flying Pokémon is naturally immune to the skill moves of the ground system. ,Even if it is an ostrich without wings like Duduli, the earthquake moves cannot take effect on it.
 
 
-**How tall and how heavy are Pokémons?**
+
+| ![Chord1](assets/6.png) | ![Chord1](assets/7.png) |
+| ----------------------- | ----------------------- |
+|                         |                         |
+
+
+
+For the combine type of Pokémon,from the chord diagram we can easily see that the number of fighting-electric type is the most.
+
+
+
+**How tall and how heavy are Pokémon?**
+
+
 
 | ![the distribution of height](assets/4.png) | ![the distribution of weight](assets/5.png) |
 | ------------------------------------------- | ------------------------------------------- |
 |                                             |                                             |
 
+From the above figures, we can know that most Pokémon are 0.2\~2m tall and weigh 0~50kg. More than 300 Pokémon are between 0.4\~0.8m and less than 15kg. Statistically, most of them are very small, like Shiba or sheep. Few of them are very big or heavy, and the highest is 100m, the two heaviest are 999.9kg. Conversely, the shortest Pokémons are 0.1m, and the lightest are 0.1kg. In order to show the figure more clearly, we omitted three Pokémons: 'Eternatus Eternamax','Eternatus' and 'Wailord'.
 
-From the above figures, we can know that most Pokémon are 0.2\~2m tall and weigh 0\~50kg.  More than 300 Pokémon are between 0.4~0.8m and less than 15kg. Statistically, most of them are very small, like Shiba or sheep. Few of them are very big or heavy, and the highest is 100m, the two heaviest are 999.9kg. Conversely, the shortest Pokémons are 0.1m, and the lightest are 0.1kg. In order to show the figure more clearly, we omitted three Pokémons ('Eternatus Eternamax','Eternatus' and 'Wailord').
 
+
+**Furthermore, we conduct a comprehensive analysis of Pokémon's six abilities.**
+
+
+
+![the distribution of height](assets/8.png)
+
+
+
+To begin with, there are 6 base abilities for Pokémon, which are HP, Attack, Defense, Special Attack, Special Defense, and Speed. These abilities can determine the potential of a certain Pokémon, especially the suitable development direction. As shown above, the plots on the diagonal are the distribution of each ability, and the rest are the scatter figure between two abilities.
+
+
+
+Through the distribution diagram, we can see the central tendency of each ability and the value of the mean. Through the scatter chart, we can basically have a direct impression of the relationship between two abilities.
+
+
+
+![the distribution of height](assets/9.png)
+
+
+
+Here, we use the heat map to conduct the correlation analysis among abilities. The lighter the color, the higher the negative correlation. According to this figure, we can easily notice the smallest value is the 0.009339 between "speed" and "Defense". This is in line with our intuition since most Pokémon who are of high speed tend to have light bodies. This leads to an unsatisfying performance on defense. So this can interpret the obvious negative correlation between "speed" and "Defense". 
+
+
+
+Then we focus on the **species strength**, which is the sum of these six abilities. Species strength may be the most practical variable to Measure the strength of Pokémon. There is a saying among players, we reckon that this is a quite powerful Pokémon when the species strength value is more than 550. Here the word **Powerful** means it's better than the majority of Pokémon.
+
+
+
+In the figure below, we use a violin plot to show the information extracted from our dataset. The y label is the Pokémon's species strength, while the x label is the primary type of Pokémon.  We can see Dragon Pokémon tend to have the highest species strength among all the types. This is also the same as players' intution.
+
+![the distribution of height](assets/10.png)
 
 ### Related work
 
