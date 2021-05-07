@@ -4,7 +4,7 @@
 
 ### Sketches of the visualizations
 
-When it comes to Pokémon, you have a broad outline of it following the games, the anime, the movies, and the trading cards, or are completely bewildered by the Pokémon mania that’s gripping the Internet right now. Regardless of which camp you are in, sit back, grab your beverage of choice, and relax—we are going to take a trip to get a detailed look at Pokémon and choose your favorite pocket monsters. Our website will contain ideally five different visualizations,...
+When it comes to Pokémon, you may have a broad outline of it from the games, the anime, the movies, and the trading cards, or are completely bewildered by the Pokémon mania that’s gripping the Internet right now. Regardless of which camp you are in, sit back, grab your beverage of choice, and relax—we are going to get a detailed look of Pokémons and choose your favorite pocket monsters. Our website will contain ideally five different visualizations. The first part is a bubble diagram, presented in the form of "Poke balls". Then, in the second part, we wanna use the chord diagram to get an overview of the mix-type Pokémons. The third part is a violin graph to show the species strength distribution. Finally, we wanna users to choose their favorite Pokémons by comparing their basic skills, abilities, and other relational characteristics.
 
 
 
@@ -80,7 +80,7 @@ Other visualizations are done with **amcharts**, which is a library with an API 
 
 ### Break down of the goal
 
-The main target of our website is to help either rookie, amateurs, or big fans of Pokémon to acquaint with Pokémon from different dimensions. First, we will use Poke Ball to display different types of Pokémon. When selecting each Poke Ball, users will be attracted by their peculiar and fascinating appearance, and have an overview of Pokémon's characteristics. Then the chord diagram will represent the relationship between different types,...
+The main target of our website is to help either rookie, amateurs, or big fans of Pokémon to acquaint with Pokémon from different dimensions. First, we will use Poke Ball to display different types of Pokémon. Then the chord diagram will represent the relationship between different types, and the sankey diagram will exhibit the relationship between species, growth rate, and catch rate. Finally, users can choose their own favorite Pokémons by comparing the description information and 6 basic abilities exhibited by the radar chart.
 
 
 
