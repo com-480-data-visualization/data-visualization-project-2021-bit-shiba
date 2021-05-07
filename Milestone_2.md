@@ -72,6 +72,10 @@ The website is hosted on **CodeSandbox**(https://codesandbox.io) pages.
 
 Basically, our graphs require the use of `d3.js` library. Some visualizations are done with the help of `d3.js` gallery, like the Bubble diagram.
 
+#### amcharts 4
+
+Other visualizations such as the Chord Diagram and Sankey Diagram are done with `amcharts`, which is a library with an API providing us lots of ways to modify the charts however we want in simple ways.
+
 #### Lecture and Tutorials
 
 We are inspired by some examples introduced by lectures and exercises, such as interactive d3 (Lecture 5 and exercise 5), color marks, and channels (Lecture 6 and exercise 6). What's more, future lectures like graphs and tabular data, will be of great help for our selection and comparison part (the radar chart). And there possibly are other lectures that will inspire us to do further perfection.
@@ -120,6 +124,6 @@ This the final and themost important step to achieve our initial goal. To help p
 
 Hopefully, after this part, the player can have a deep understanding of these Pokémon and find their coveted one.
 
-Extra ideas
+#### Extra ideas
 
 We hope to help the player to choose a group of Pokémon (Generally, the international  Pokemon Compitation needs 6 Pokémon), considering the Pokémon attribute restraint table.
