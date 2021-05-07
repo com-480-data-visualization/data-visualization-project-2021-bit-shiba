@@ -119,3 +119,7 @@ This the final and themost important step to achieve our initial goal. To help p
 
 
 Hopefully, after this part, the player can have a deep understanding of these Pokémon and find their coveted one.
+
+Extra ideas
+
+We hope to help the player to choose a group of Pokémon (Generally, the international  Pokemon Compitation needs 6 Pokémon), considering the Pokémon attribute restraint table.
