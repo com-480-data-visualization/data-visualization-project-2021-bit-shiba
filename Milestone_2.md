@@ -62,19 +62,19 @@ After the comparasion and comprehensive consideration, you can draw a conclusion
 
 ### List of the tools for each visualisation
 
-There are five main interactive figures in our website, which are Bubble diagram, Chord diagram, Sankey diagram, Violin graph, Radar chart. The tools we used are as follows.
+There are five main interactive figures in our website, which are Bubble diagram, Chord diagram, Sankey diagram, Violin graph, Radar chart. As expected, we will use all lectures about HTML, CSS and, Javascript. The specific tools we used are as follows.
 
-#### React
+#### CodeSandbox
 
-The website is a react application hosted on **CodeSandbox** pages (https://codesandbox.io). Some visualizations are hand-crafted using React and native web technologies.
+The website is hosted on **CodeSandbox**(https://codesandbox.io) pages. 
 
-#### d3
+#### d3.js
 
-Some visualizations are done with `d3.js`. Its data manipulation might be conflicting with the one of `react`. Therefore we use [react-d3-library](https://react-d3-library.github.io/) to integrate d3 visualizations in react applications.
+Basically, our graphs require the use of `d3.js` library. Some visualizations are done with the help of `d3.js` gallery, like the Bubble diagram.
 
-#### amcharts 4
+#### Lecture and Tutorials
 
-Other visualizations are done with **amcharts**, which is a library with an API providing us lots of ways to modify the charts.
+We are inspired by some examples introduced by lectures and exercises, such as interactive d3 (Lecture 5 and exercise 5), color marks, and channels (Lecture 6 and exercise 6). What's more, future lectures like graphs and tabular data, will be of great help for our selection and comparison part (the radar chart). And there possibly are other lectures that will inspire us to do further perfection.
 
 
 
