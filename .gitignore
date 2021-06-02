@@ -1,0 +1,20 @@
+*.pyc
+
+
+.idea/
+
+__pycache__
+
+myvenv
+
+db.sqlite3
+
+# misc
+.DS_Store
+
+.jovianrc
+
+.ipynb_checkpoints
+
+.idea
+.codesandbox
