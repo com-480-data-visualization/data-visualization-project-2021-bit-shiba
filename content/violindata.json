@@ -1,4114 +1,4114 @@
 [
     {
-        "Type": "Grass",
-        "SpeciesStrength": 318.0
+        "type": "Grass",
+        "strength": 318.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 525.0
+        "type": "Grass",
+        "strength": 525.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 625.0
+        "type": "Grass",
+        "strength": 625.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 309.0
+        "type": "Fire",
+        "strength": 309.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 405.0
+        "type": "Fire",
+        "strength": 405.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 534.0
+        "type": "Fire",
+        "strength": 534.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 634.0
+        "type": "Fire",
+        "strength": 634.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 634.0
+        "type": "Fire",
+        "strength": 634.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 314.0
+        "type": "Water",
+        "strength": 314.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 405.0
+        "type": "Water",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 630.0
+        "type": "Water",
+        "strength": 630.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 195.0
+        "type": "Bug",
+        "strength": 195.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 205.0
+        "type": "Bug",
+        "strength": 205.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 395.0
+        "type": "Bug",
+        "strength": 395.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 195.0
+        "type": "Bug",
+        "strength": 195.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 205.0
+        "type": "Bug",
+        "strength": 205.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 395.0
+        "type": "Bug",
+        "strength": 395.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 495.0
+        "type": "Bug",
+        "strength": 495.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 251.0
+        "type": "Normal",
+        "strength": 251.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 349.0
+        "type": "Normal",
+        "strength": 349.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 479.0
+        "type": "Normal",
+        "strength": 479.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 579.0
+        "type": "Normal",
+        "strength": 579.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 253.0
+        "type": "Normal",
+        "strength": 253.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 253.0
+        "type": "Dark",
+        "strength": 253.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 413.0
+        "type": "Normal",
+        "strength": 413.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 413.0
+        "type": "Dark",
+        "strength": 413.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 262.0
+        "type": "Normal",
+        "strength": 262.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 442.0
+        "type": "Normal",
+        "strength": 442.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 288.0
+        "type": "Poison",
+        "strength": 288.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 448.0
+        "type": "Poison",
+        "strength": 448.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 320.0
+        "type": "Electric",
+        "strength": 320.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 430.0
+        "type": "Electric",
+        "strength": 430.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 485.0
+        "type": "Electric",
+        "strength": 485.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 485.0
+        "type": "Electric",
+        "strength": 485.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 300.0
+        "type": "Ground",
+        "strength": 300.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 300.0
+        "type": "Ice",
+        "strength": 300.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 450.0
+        "type": "Ground",
+        "strength": 450.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 450.0
+        "type": "Ice",
+        "strength": 450.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 275.0
+        "type": "Poison",
+        "strength": 275.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 365.0
+        "type": "Poison",
+        "strength": 365.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 505.0
+        "type": "Poison",
+        "strength": 505.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 273.0
+        "type": "Poison",
+        "strength": 273.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 365.0
+        "type": "Poison",
+        "strength": 365.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 505.0
+        "type": "Poison",
+        "strength": 505.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 323.0
+        "type": "Fairy",
+        "strength": 323.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 483.0
+        "type": "Fairy",
+        "strength": 483.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 299.0
+        "type": "Fire",
+        "strength": 299.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 299.0
+        "type": "Ice",
+        "strength": 299.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 505.0
+        "type": "Fire",
+        "strength": 505.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 505.0
+        "type": "Ice",
+        "strength": 505.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 270.0
+        "type": "Normal",
+        "strength": 270.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 435.0
+        "type": "Normal",
+        "strength": 435.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 245.0
+        "type": "Poison",
+        "strength": 245.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 455.0
+        "type": "Poison",
+        "strength": 455.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 320.0
+        "type": "Grass",
+        "strength": 320.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 395.0
+        "type": "Grass",
+        "strength": 395.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 490.0
+        "type": "Grass",
+        "strength": 490.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 285.0
+        "type": "Bug",
+        "strength": 285.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 405.0
+        "type": "Bug",
+        "strength": 405.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 305.0
+        "type": "Bug",
+        "strength": 305.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 450.0
+        "type": "Bug",
+        "strength": 450.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 265.0
+        "type": "Ground",
+        "strength": 265.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 265.0
+        "type": "Ground",
+        "strength": 265.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 425.0
+        "type": "Ground",
+        "strength": 425.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 425.0
+        "type": "Ground",
+        "strength": 425.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 290.0
+        "type": "Normal",
+        "strength": 290.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 290.0
+        "type": "Dark",
+        "strength": 290.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 290.0
+        "type": "Steel",
+        "strength": 290.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 440.0
+        "type": "Normal",
+        "strength": 440.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 440.0
+        "type": "Dark",
+        "strength": 440.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 320.0
+        "type": "Water",
+        "strength": 320.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 500.0
+        "type": "Water",
+        "strength": 500.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 305.0
+        "type": "Fighting",
+        "strength": 305.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 455.0
+        "type": "Fighting",
+        "strength": 455.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 350.0
+        "type": "Fire",
+        "strength": 350.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 555.0
+        "type": "Fire",
+        "strength": 555.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 300.0
+        "type": "Water",
+        "strength": 300.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 385.0
+        "type": "Water",
+        "strength": 385.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 510.0
+        "type": "Water",
+        "strength": 510.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 310.0
+        "type": "Psychic",
+        "strength": 310.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 400.0
+        "type": "Psychic",
+        "strength": 400.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 500.0
+        "type": "Psychic",
+        "strength": 500.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 305.0
+        "type": "Fighting",
+        "strength": 305.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 405.0
+        "type": "Fighting",
+        "strength": 405.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 505.0
+        "type": "Fighting",
+        "strength": 505.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 300.0
+        "type": "Grass",
+        "strength": 300.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 390.0
+        "type": "Grass",
+        "strength": 390.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 490.0
+        "type": "Grass",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 335.0
+        "type": "Water",
+        "strength": 335.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 515.0
+        "type": "Water",
+        "strength": 515.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 300.0
+        "type": "Rock",
+        "strength": 300.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 300.0
+        "type": "Rock",
+        "strength": 300.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 390.0
+        "type": "Rock",
+        "strength": 390.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 390.0
+        "type": "Rock",
+        "strength": 390.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 410.0
+        "type": "Fire",
+        "strength": 410.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 410.0
+        "type": "Psychic",
+        "strength": 410.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 500.0
+        "type": "Fire",
+        "strength": 500.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 500.0
+        "type": "Psychic",
+        "strength": 500.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 315.0
+        "type": "Water",
+        "strength": 315.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 490.0
+        "type": "Water",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 590.0
+        "type": "Water",
+        "strength": 590.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 325.0
+        "type": "Electric",
+        "strength": 325.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 465.0
+        "type": "Electric",
+        "strength": 465.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 377.0
+        "type": "Normal",
+        "strength": 377.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 377.0
+        "type": "Fighting",
+        "strength": 377.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 310.0
+        "type": "Normal",
+        "strength": 310.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 470.0
+        "type": "Normal",
+        "strength": 470.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 325.0
+        "type": "Water",
+        "strength": 325.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 475.0
+        "type": "Water",
+        "strength": 475.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 325.0
+        "type": "Poison",
+        "strength": 325.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 325.0
+        "type": "Poison",
+        "strength": 325.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 500.0
+        "type": "Poison",
+        "strength": 500.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 500.0
+        "type": "Poison",
+        "strength": 500.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 305.0
+        "type": "Water",
+        "strength": 305.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 525.0
+        "type": "Water",
+        "strength": 525.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 310.0
+        "type": "Ghost",
+        "strength": 310.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 405.0
+        "type": "Ghost",
+        "strength": 405.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 500.0
+        "type": "Ghost",
+        "strength": 500.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 600.0
+        "type": "Ghost",
+        "strength": 600.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 385.0
+        "type": "Rock",
+        "strength": 385.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 328.0
+        "type": "Psychic",
+        "strength": 328.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 483.0
+        "type": "Psychic",
+        "strength": 483.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 325.0
+        "type": "Water",
+        "strength": 325.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 475.0
+        "type": "Water",
+        "strength": 475.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 330.0
+        "type": "Electric",
+        "strength": 330.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 490.0
+        "type": "Electric",
+        "strength": 490.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 325.0
+        "type": "Grass",
+        "strength": 325.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 320.0
+        "type": "Ground",
+        "strength": 320.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 425.0
+        "type": "Ground",
+        "strength": 425.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 425.0
+        "type": "Fire",
+        "strength": 425.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 455.0
+        "type": "Fighting",
+        "strength": 455.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 455.0
+        "type": "Fighting",
+        "strength": 455.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 385.0
+        "type": "Normal",
+        "strength": 385.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 340.0
+        "type": "Poison",
+        "strength": 340.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 490.0
+        "type": "Poison",
+        "strength": 490.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 490.0
+        "type": "Poison",
+        "strength": 490.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 345.0
+        "type": "Ground",
+        "strength": 345.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 485.0
+        "type": "Ground",
+        "strength": 485.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 450.0
+        "type": "Normal",
+        "strength": 450.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 435.0
+        "type": "Grass",
+        "strength": 435.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 590.0
+        "type": "Normal",
+        "strength": 590.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 295.0
+        "type": "Water",
+        "strength": 295.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 440.0
+        "type": "Water",
+        "strength": 440.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 320.0
+        "type": "Water",
+        "strength": 320.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 450.0
+        "type": "Water",
+        "strength": 450.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 340.0
+        "type": "Water",
+        "strength": 340.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 520.0
+        "type": "Water",
+        "strength": 520.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 460.0
+        "type": "Psychic",
+        "strength": 460.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 460.0
+        "type": "Psychic",
+        "strength": 460.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 455.0
+        "type": "Ice",
+        "strength": 455.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 490.0
+        "type": "Electric",
+        "strength": 490.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 495.0
+        "type": "Fire",
+        "strength": 495.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 600.0
+        "type": "Bug",
+        "strength": 600.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 200.0
+        "type": "Water",
+        "strength": 200.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 540.0
+        "type": "Water",
+        "strength": 540.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 640.0
+        "type": "Water",
+        "strength": 640.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 535.0
+        "type": "Water",
+        "strength": 535.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 288.0
+        "type": "Normal",
+        "strength": 288.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 325.0
+        "type": "Normal",
+        "strength": 325.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 435.0
+        "type": "Normal",
+        "strength": 435.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 525.0
+        "type": "Water",
+        "strength": 525.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 525.0
+        "type": "Electric",
+        "strength": 525.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 525.0
+        "type": "Fire",
+        "strength": 525.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 395.0
+        "type": "Normal",
+        "strength": 395.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 355.0
+        "type": "Rock",
+        "strength": 355.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 355.0
+        "type": "Rock",
+        "strength": 355.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 515.0
+        "type": "Rock",
+        "strength": 515.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 615.0
+        "type": "Rock",
+        "strength": 615.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 540.0
+        "type": "Normal",
+        "strength": 540.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 580.0
+        "type": "Ice",
+        "strength": 580.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 580.0
+        "type": "Electric",
+        "strength": 580.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 580.0
+        "type": "Fire",
+        "strength": 580.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 300.0
+        "type": "Dragon",
+        "strength": 300.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 420.0
+        "type": "Dragon",
+        "strength": 420.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 780.0
+        "type": "Psychic",
+        "strength": 780.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 780.0
+        "type": "Psychic",
+        "strength": 780.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 318.0
+        "type": "Grass",
+        "strength": 318.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 525.0
+        "type": "Grass",
+        "strength": 525.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 309.0
+        "type": "Fire",
+        "strength": 309.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 405.0
+        "type": "Fire",
+        "strength": 405.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 534.0
+        "type": "Fire",
+        "strength": 534.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 314.0
+        "type": "Water",
+        "strength": 314.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 405.0
+        "type": "Water",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 215.0
+        "type": "Normal",
+        "strength": 215.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 415.0
+        "type": "Normal",
+        "strength": 415.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 262.0
+        "type": "Normal",
+        "strength": 262.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 452.0
+        "type": "Normal",
+        "strength": 452.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 265.0
+        "type": "Bug",
+        "strength": 265.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 390.0
+        "type": "Bug",
+        "strength": 390.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 250.0
+        "type": "Bug",
+        "strength": 250.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 400.0
+        "type": "Bug",
+        "strength": 400.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 535.0
+        "type": "Poison",
+        "strength": 535.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 330.0
+        "type": "Water",
+        "strength": 330.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 460.0
+        "type": "Water",
+        "strength": 460.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 205.0
+        "type": "Electric",
+        "strength": 205.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 218.0
+        "type": "Fairy",
+        "strength": 218.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 210.0
+        "type": "Normal",
+        "strength": 210.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 245.0
+        "type": "Fairy",
+        "strength": 245.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 405.0
+        "type": "Fairy",
+        "strength": 405.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 320.0
+        "type": "Psychic",
+        "strength": 320.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 470.0
+        "type": "Psychic",
+        "strength": 470.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 280.0
+        "type": "Electric",
+        "strength": 280.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 365.0
+        "type": "Electric",
+        "strength": 365.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 510.0
+        "type": "Electric",
+        "strength": 510.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 610.0
+        "type": "Electric",
+        "strength": 610.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 490.0
+        "type": "Grass",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 250.0
+        "type": "Water",
+        "strength": 250.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 420.0
+        "type": "Water",
+        "strength": 420.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 410.0
+        "type": "Rock",
+        "strength": 410.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 500.0
+        "type": "Water",
+        "strength": 500.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 250.0
+        "type": "Grass",
+        "strength": 250.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 340.0
+        "type": "Grass",
+        "strength": 340.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 460.0
+        "type": "Grass",
+        "strength": 460.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 360.0
+        "type": "Normal",
+        "strength": 360.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 180.0
+        "type": "Grass",
+        "strength": 180.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 425.0
+        "type": "Grass",
+        "strength": 425.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 390.0
+        "type": "Bug",
+        "strength": 390.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 210.0
+        "type": "Water",
+        "strength": 210.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 430.0
+        "type": "Water",
+        "strength": 430.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 525.0
+        "type": "Psychic",
+        "strength": 525.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 525.0
+        "type": "Dark",
+        "strength": 525.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 405.0
+        "type": "Dark",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 490.0
+        "type": "Water",
+        "strength": 490.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 435.0
+        "type": "Ghost",
+        "strength": 435.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 336.0
+        "type": "Psychic",
+        "strength": 336.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 405.0
+        "type": "Psychic",
+        "strength": 405.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 455.0
+        "type": "Normal",
+        "strength": 455.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 290.0
+        "type": "Bug",
+        "strength": 290.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 465.0
+        "type": "Bug",
+        "strength": 465.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 415.0
+        "type": "Normal",
+        "strength": 415.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 430.0
+        "type": "Ground",
+        "strength": 430.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 510.0
+        "type": "Steel",
+        "strength": 510.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 610.0
+        "type": "Steel",
+        "strength": 610.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 300.0
+        "type": "Fairy",
+        "strength": 300.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 450.0
+        "type": "Fairy",
+        "strength": 450.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 440.0
+        "type": "Water",
+        "strength": 440.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 600.0
+        "type": "Bug",
+        "strength": 600.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 505.0
+        "type": "Bug",
+        "strength": 505.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 600.0
+        "type": "Bug",
+        "strength": 600.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 430.0
+        "type": "Dark",
+        "strength": 430.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 330.0
+        "type": "Normal",
+        "strength": 330.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 500.0
+        "type": "Normal",
+        "strength": 500.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 250.0
+        "type": "Fire",
+        "strength": 250.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 430.0
+        "type": "Fire",
+        "strength": 430.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 250.0
+        "type": "Ice",
+        "strength": 250.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 450.0
+        "type": "Ice",
+        "strength": 450.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 410.0
+        "type": "Water",
+        "strength": 410.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 410.0
+        "type": "Ghost",
+        "strength": 410.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 300.0
+        "type": "Water",
+        "strength": 300.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 480.0
+        "type": "Water",
+        "strength": 480.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 330.0
+        "type": "Ice",
+        "strength": 330.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 485.0
+        "type": "Water",
+        "strength": 485.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 465.0
+        "type": "Steel",
+        "strength": 465.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 330.0
+        "type": "Dark",
+        "strength": 330.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 500.0
+        "type": "Dark",
+        "strength": 500.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 600.0
+        "type": "Dark",
+        "strength": 600.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 540.0
+        "type": "Water",
+        "strength": 540.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 330.0
+        "type": "Ground",
+        "strength": 330.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 500.0
+        "type": "Ground",
+        "strength": 500.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 515.0
+        "type": "Normal",
+        "strength": 515.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 465.0
+        "type": "Normal",
+        "strength": 465.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 250.0
+        "type": "Normal",
+        "strength": 250.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 210.0
+        "type": "Fighting",
+        "strength": 210.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 455.0
+        "type": "Fighting",
+        "strength": 455.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 305.0
+        "type": "Ice",
+        "strength": 305.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 360.0
+        "type": "Electric",
+        "strength": 360.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 365.0
+        "type": "Fire",
+        "strength": 365.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 540.0
+        "type": "Normal",
+        "strength": 540.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 580.0
+        "type": "Electric",
+        "strength": 580.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 580.0
+        "type": "Fire",
+        "strength": 580.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 580.0
+        "type": "Water",
+        "strength": 580.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 300.0
+        "type": "Rock",
+        "strength": 300.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 410.0
+        "type": "Rock",
+        "strength": 410.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 600.0
+        "type": "Rock",
+        "strength": 600.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 700.0
+        "type": "Rock",
+        "strength": 700.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 680.0
+        "type": "Fire",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 310.0
+        "type": "Grass",
+        "strength": 310.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 630.0
+        "type": "Grass",
+        "strength": 630.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 310.0
+        "type": "Fire",
+        "strength": 310.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 405.0
+        "type": "Fire",
+        "strength": 405.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 530.0
+        "type": "Fire",
+        "strength": 530.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 630.0
+        "type": "Fire",
+        "strength": 630.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 310.0
+        "type": "Water",
+        "strength": 310.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 405.0
+        "type": "Water",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 535.0
+        "type": "Water",
+        "strength": 535.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 635.0
+        "type": "Water",
+        "strength": 635.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 220.0
+        "type": "Dark",
+        "strength": 220.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 420.0
+        "type": "Dark",
+        "strength": 420.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 240.0
+        "type": "Normal",
+        "strength": 240.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 240.0
+        "type": "Dark",
+        "strength": 240.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 420.0
+        "type": "Normal",
+        "strength": 420.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 420.0
+        "type": "Dark",
+        "strength": 420.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 195.0
+        "type": "Bug",
+        "strength": 195.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 205.0
+        "type": "Bug",
+        "strength": 205.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 395.0
+        "type": "Bug",
+        "strength": 395.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 205.0
+        "type": "Bug",
+        "strength": 205.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 385.0
+        "type": "Bug",
+        "strength": 385.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 220.0
+        "type": "Water",
+        "strength": 220.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 340.0
+        "type": "Water",
+        "strength": 340.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 480.0
+        "type": "Water",
+        "strength": 480.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 220.0
+        "type": "Grass",
+        "strength": 220.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 340.0
+        "type": "Grass",
+        "strength": 340.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 480.0
+        "type": "Grass",
+        "strength": 480.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 270.0
+        "type": "Normal",
+        "strength": 270.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 455.0
+        "type": "Normal",
+        "strength": 455.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 270.0
+        "type": "Water",
+        "strength": 270.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 440.0
+        "type": "Water",
+        "strength": 440.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 198.0
+        "type": "Psychic",
+        "strength": 198.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 278.0
+        "type": "Psychic",
+        "strength": 278.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 518.0
+        "type": "Psychic",
+        "strength": 518.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 618.0
+        "type": "Psychic",
+        "strength": 618.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 269.0
+        "type": "Bug",
+        "strength": 269.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 454.0
+        "type": "Bug",
+        "strength": 454.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 295.0
+        "type": "Grass",
+        "strength": 295.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 460.0
+        "type": "Grass",
+        "strength": 460.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 280.0
+        "type": "Normal",
+        "strength": 280.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 440.0
+        "type": "Normal",
+        "strength": 440.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 670.0
+        "type": "Normal",
+        "strength": 670.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 266.0
+        "type": "Bug",
+        "strength": 266.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 456.0
+        "type": "Bug",
+        "strength": 456.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 236.0
+        "type": "Bug",
+        "strength": 236.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 240.0
+        "type": "Normal",
+        "strength": 240.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 360.0
+        "type": "Normal",
+        "strength": 360.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 237.0
+        "type": "Fighting",
+        "strength": 237.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 474.0
+        "type": "Fighting",
+        "strength": 474.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 190.0
+        "type": "Normal",
+        "strength": 190.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 375.0
+        "type": "Rock",
+        "strength": 375.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 260.0
+        "type": "Normal",
+        "strength": 260.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 400.0
+        "type": "Normal",
+        "strength": 400.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 380.0
+        "type": "Dark",
+        "strength": 380.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 480.0
+        "type": "Dark",
+        "strength": 480.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 380.0
+        "type": "Steel",
+        "strength": 380.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 480.0
+        "type": "Steel",
+        "strength": 480.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 330.0
+        "type": "Steel",
+        "strength": 330.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 430.0
+        "type": "Steel",
+        "strength": 430.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 530.0
+        "type": "Steel",
+        "strength": 530.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 630.0
+        "type": "Steel",
+        "strength": 630.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 280.0
+        "type": "Fighting",
+        "strength": 280.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 410.0
+        "type": "Fighting",
+        "strength": 410.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 510.0
+        "type": "Fighting",
+        "strength": 510.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 295.0
+        "type": "Electric",
+        "strength": 295.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 475.0
+        "type": "Electric",
+        "strength": 475.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 575.0
+        "type": "Electric",
+        "strength": 575.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 405.0
+        "type": "Electric",
+        "strength": 405.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 405.0
+        "type": "Electric",
+        "strength": 405.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 430.0
+        "type": "Bug",
+        "strength": 430.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 430.0
+        "type": "Bug",
+        "strength": 430.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 400.0
+        "type": "Grass",
+        "strength": 400.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 302.0
+        "type": "Poison",
+        "strength": 302.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 467.0
+        "type": "Poison",
+        "strength": 467.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 305.0
+        "type": "Water",
+        "strength": 305.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 460.0
+        "type": "Water",
+        "strength": 460.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 560.0
+        "type": "Water",
+        "strength": 560.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 400.0
+        "type": "Water",
+        "strength": 400.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 500.0
+        "type": "Water",
+        "strength": 500.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 305.0
+        "type": "Fire",
+        "strength": 305.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 460.0
+        "type": "Fire",
+        "strength": 460.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 560.0
+        "type": "Fire",
+        "strength": 560.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 470.0
+        "type": "Fire",
+        "strength": 470.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 330.0
+        "type": "Psychic",
+        "strength": 330.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 470.0
+        "type": "Psychic",
+        "strength": 470.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 360.0
+        "type": "Normal",
+        "strength": 360.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 290.0
+        "type": "Ground",
+        "strength": 290.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 340.0
+        "type": "Ground",
+        "strength": 340.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 520.0
+        "type": "Ground",
+        "strength": 520.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 335.0
+        "type": "Grass",
+        "strength": 335.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 475.0
+        "type": "Grass",
+        "strength": 475.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 310.0
+        "type": "Normal",
+        "strength": 310.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 490.0
+        "type": "Dragon",
+        "strength": 490.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 590.0
+        "type": "Dragon",
+        "strength": 590.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 458.0
+        "type": "Normal",
+        "strength": 458.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 458.0
+        "type": "Poison",
+        "strength": 458.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 460.0
+        "type": "Rock",
+        "strength": 460.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 460.0
+        "type": "Rock",
+        "strength": 460.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 288.0
+        "type": "Water",
+        "strength": 288.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 468.0
+        "type": "Water",
+        "strength": 468.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 308.0
+        "type": "Water",
+        "strength": 308.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 468.0
+        "type": "Water",
+        "strength": 468.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 300.0
+        "type": "Ground",
+        "strength": 300.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 500.0
+        "type": "Ground",
+        "strength": 500.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 355.0
+        "type": "Rock",
+        "strength": 355.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 355.0
+        "type": "Rock",
+        "strength": 355.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 200.0
+        "type": "Water",
+        "strength": 200.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 540.0
+        "type": "Water",
+        "strength": 540.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 420.0
+        "type": "Normal",
+        "strength": 420.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 420.0
+        "type": "Fire",
+        "strength": 420.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 420.0
+        "type": "Water",
+        "strength": 420.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 420.0
+        "type": "Ice",
+        "strength": 420.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 440.0
+        "type": "Normal",
+        "strength": 440.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 295.0
+        "type": "Ghost",
+        "strength": 295.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 455.0
+        "type": "Ghost",
+        "strength": 455.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 555.0
+        "type": "Ghost",
+        "strength": 555.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 295.0
+        "type": "Ghost",
+        "strength": 295.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 455.0
+        "type": "Ghost",
+        "strength": 455.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 460.0
+        "type": "Grass",
+        "strength": 460.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 455.0
+        "type": "Psychic",
+        "strength": 455.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 465.0
+        "type": "Dark",
+        "strength": 465.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 565.0
+        "type": "Dark",
+        "strength": 565.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 260.0
+        "type": "Psychic",
+        "strength": 260.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 300.0
+        "type": "Ice",
+        "strength": 300.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 480.0
+        "type": "Ice",
+        "strength": 480.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 580.0
+        "type": "Ice",
+        "strength": 580.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 290.0
+        "type": "Ice",
+        "strength": 290.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 410.0
+        "type": "Ice",
+        "strength": 410.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 530.0
+        "type": "Ice",
+        "strength": 530.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 345.0
+        "type": "Water",
+        "strength": 345.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 485.0
+        "type": "Water",
+        "strength": 485.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 485.0
+        "type": "Water",
+        "strength": 485.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 485.0
+        "type": "Water",
+        "strength": 485.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 330.0
+        "type": "Water",
+        "strength": 330.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 300.0
+        "type": "Dragon",
+        "strength": 300.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 420.0
+        "type": "Dragon",
+        "strength": 420.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 300.0
+        "type": "Steel",
+        "strength": 300.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 420.0
+        "type": "Steel",
+        "strength": 420.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 600.0
+        "type": "Steel",
+        "strength": 600.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 700.0
+        "type": "Steel",
+        "strength": 700.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 580.0
+        "type": "Rock",
+        "strength": 580.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 580.0
+        "type": "Ice",
+        "strength": 580.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 580.0
+        "type": "Steel",
+        "strength": 580.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 670.0
+        "type": "Water",
+        "strength": 670.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 770.0
+        "type": "Water",
+        "strength": 770.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 670.0
+        "type": "Ground",
+        "strength": 670.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 770.0
+        "type": "Ground",
+        "strength": 770.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 680.0
+        "type": "Dragon",
+        "strength": 680.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 780.0
+        "type": "Dragon",
+        "strength": 780.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 600.0
+        "type": "Steel",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 318.0
+        "type": "Grass",
+        "strength": 318.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 525.0
+        "type": "Grass",
+        "strength": 525.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 309.0
+        "type": "Fire",
+        "strength": 309.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 405.0
+        "type": "Fire",
+        "strength": 405.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 534.0
+        "type": "Fire",
+        "strength": 534.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 314.0
+        "type": "Water",
+        "strength": 314.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 405.0
+        "type": "Water",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 245.0
+        "type": "Normal",
+        "strength": 245.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 340.0
+        "type": "Normal",
+        "strength": 340.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 485.0
+        "type": "Normal",
+        "strength": 485.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 250.0
+        "type": "Normal",
+        "strength": 250.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 410.0
+        "type": "Normal",
+        "strength": 410.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 194.0
+        "type": "Bug",
+        "strength": 194.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 384.0
+        "type": "Bug",
+        "strength": 384.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 263.0
+        "type": "Electric",
+        "strength": 263.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 363.0
+        "type": "Electric",
+        "strength": 363.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 523.0
+        "type": "Electric",
+        "strength": 523.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 280.0
+        "type": "Grass",
+        "strength": 280.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 515.0
+        "type": "Grass",
+        "strength": 515.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 350.0
+        "type": "Rock",
+        "strength": 350.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 350.0
+        "type": "Rock",
+        "strength": 350.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 495.0
+        "type": "Rock",
+        "strength": 495.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 224.0
+        "type": "Bug",
+        "strength": 224.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 424.0
+        "type": "Bug",
+        "strength": 424.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 424.0
+        "type": "Bug",
+        "strength": 424.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 424.0
+        "type": "Bug",
+        "strength": 424.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 424.0
+        "type": "Bug",
+        "strength": 424.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 244.0
+        "type": "Bug",
+        "strength": 244.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 474.0
+        "type": "Bug",
+        "strength": 474.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 405.0
+        "type": "Electric",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 330.0
+        "type": "Water",
+        "strength": 330.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 495.0
+        "type": "Water",
+        "strength": 495.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 275.0
+        "type": "Grass",
+        "strength": 275.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 450.0
+        "type": "Grass",
+        "strength": 450.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 325.0
+        "type": "Water",
+        "strength": 325.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 475.0
+        "type": "Water",
+        "strength": 475.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 482.0
+        "type": "Normal",
+        "strength": 482.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 348.0
+        "type": "Ghost",
+        "strength": 348.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 498.0
+        "type": "Ghost",
+        "strength": 498.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 350.0
+        "type": "Normal",
+        "strength": 350.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 480.0
+        "type": "Normal",
+        "strength": 480.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 580.0
+        "type": "Normal",
+        "strength": 580.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 495.0
+        "type": "Ghost",
+        "strength": 495.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 505.0
+        "type": "Dark",
+        "strength": 505.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 310.0
+        "type": "Normal",
+        "strength": 310.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 452.0
+        "type": "Normal",
+        "strength": 452.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 285.0
+        "type": "Psychic",
+        "strength": 285.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 329.0
+        "type": "Poison",
+        "strength": 329.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 479.0
+        "type": "Poison",
+        "strength": 479.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 300.0
+        "type": "Steel",
+        "strength": 300.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 500.0
+        "type": "Steel",
+        "strength": 500.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 290.0
+        "type": "Rock",
+        "strength": 290.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 310.0
+        "type": "Psychic",
+        "strength": 310.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 220.0
+        "type": "Normal",
+        "strength": 220.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 411.0
+        "type": "Normal",
+        "strength": 411.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 485.0
+        "type": "Ghost",
+        "strength": 485.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 300.0
+        "type": "Dragon",
+        "strength": 300.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 410.0
+        "type": "Dragon",
+        "strength": 410.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 390.0
+        "type": "Normal",
+        "strength": 390.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 285.0
+        "type": "Fighting",
+        "strength": 285.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 525.0
+        "type": "Fighting",
+        "strength": 525.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 625.0
+        "type": "Fighting",
+        "strength": 625.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 330.0
+        "type": "Ground",
+        "strength": 330.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 525.0
+        "type": "Ground",
+        "strength": 525.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 330.0
+        "type": "Poison",
+        "strength": 330.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 500.0
+        "type": "Poison",
+        "strength": 500.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 300.0
+        "type": "Poison",
+        "strength": 300.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 490.0
+        "type": "Poison",
+        "strength": 490.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 454.0
+        "type": "Grass",
+        "strength": 454.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 330.0
+        "type": "Water",
+        "strength": 330.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 460.0
+        "type": "Water",
+        "strength": 460.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 345.0
+        "type": "Water",
+        "strength": 345.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 334.0
+        "type": "Grass",
+        "strength": 334.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 494.0
+        "type": "Grass",
+        "strength": 494.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 594.0
+        "type": "Grass",
+        "strength": 594.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 510.0
+        "type": "Dark",
+        "strength": 510.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 535.0
+        "type": "Electric",
+        "strength": 535.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 515.0
+        "type": "Normal",
+        "strength": 515.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 535.0
+        "type": "Ground",
+        "strength": 535.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 535.0
+        "type": "Grass",
+        "strength": 535.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 540.0
+        "type": "Electric",
+        "strength": 540.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 540.0
+        "type": "Fire",
+        "strength": 540.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 545.0
+        "type": "Fairy",
+        "strength": 545.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 515.0
+        "type": "Bug",
+        "strength": 515.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 525.0
+        "type": "Grass",
+        "strength": 525.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 525.0
+        "type": "Ice",
+        "strength": 525.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 510.0
+        "type": "Ground",
+        "strength": 510.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 530.0
+        "type": "Ice",
+        "strength": 530.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 535.0
+        "type": "Normal",
+        "strength": 535.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 518.0
+        "type": "Psychic",
+        "strength": 518.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 618.0
+        "type": "Psychic",
+        "strength": 618.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 525.0
+        "type": "Rock",
+        "strength": 525.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 525.0
+        "type": "Ghost",
+        "strength": 525.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 480.0
+        "type": "Ice",
+        "strength": 480.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 440.0
+        "type": "Electric",
+        "strength": 440.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 520.0
+        "type": "Electric",
+        "strength": 520.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 520.0
+        "type": "Electric",
+        "strength": 520.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 520.0
+        "type": "Electric",
+        "strength": 520.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 520.0
+        "type": "Electric",
+        "strength": 520.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 520.0
+        "type": "Electric",
+        "strength": 520.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 580.0
+        "type": "Psychic",
+        "strength": 580.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 580.0
+        "type": "Psychic",
+        "strength": 580.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 580.0
+        "type": "Psychic",
+        "strength": 580.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 680.0
+        "type": "Steel",
+        "strength": 680.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 680.0
+        "type": "Water",
+        "strength": 680.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 600.0
+        "type": "Fire",
+        "strength": 600.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 670.0
+        "type": "Normal",
+        "strength": 670.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 680.0
+        "type": "Ghost",
+        "strength": 680.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 680.0
+        "type": "Ghost",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 480.0
+        "type": "Water",
+        "strength": 480.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 600.0
+        "type": "Water",
+        "strength": 600.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 600.0
+        "type": "Dark",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 600.0
+        "type": "Grass",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 600.0
+        "type": "Grass",
+        "strength": 600.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 720.0
+        "type": "Normal",
+        "strength": 720.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 308.0
+        "type": "Grass",
+        "strength": 308.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 413.0
+        "type": "Grass",
+        "strength": 413.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 528.0
+        "type": "Grass",
+        "strength": 528.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 308.0
+        "type": "Fire",
+        "strength": 308.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 418.0
+        "type": "Fire",
+        "strength": 418.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 528.0
+        "type": "Fire",
+        "strength": 528.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 308.0
+        "type": "Water",
+        "strength": 308.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 413.0
+        "type": "Water",
+        "strength": 413.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 528.0
+        "type": "Water",
+        "strength": 528.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 255.0
+        "type": "Normal",
+        "strength": 255.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 420.0
+        "type": "Normal",
+        "strength": 420.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 275.0
+        "type": "Normal",
+        "strength": 275.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 370.0
+        "type": "Normal",
+        "strength": 370.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 500.0
+        "type": "Normal",
+        "strength": 500.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 281.0
+        "type": "Dark",
+        "strength": 281.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 446.0
+        "type": "Dark",
+        "strength": 446.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 316.0
+        "type": "Grass",
+        "strength": 316.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 498.0
+        "type": "Grass",
+        "strength": 498.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 316.0
+        "type": "Fire",
+        "strength": 316.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 498.0
+        "type": "Fire",
+        "strength": 498.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 316.0
+        "type": "Water",
+        "strength": 316.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 498.0
+        "type": "Water",
+        "strength": 498.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 292.0
+        "type": "Psychic",
+        "strength": 292.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 487.0
+        "type": "Psychic",
+        "strength": 487.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 264.0
+        "type": "Normal",
+        "strength": 264.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 358.0
+        "type": "Normal",
+        "strength": 358.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 488.0
+        "type": "Normal",
+        "strength": 488.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 295.0
+        "type": "Electric",
+        "strength": 295.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 497.0
+        "type": "Electric",
+        "strength": 497.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 280.0
+        "type": "Rock",
+        "strength": 280.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 390.0
+        "type": "Rock",
+        "strength": 390.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 515.0
+        "type": "Rock",
+        "strength": 515.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 323.0
+        "type": "Psychic",
+        "strength": 323.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 425.0
+        "type": "Psychic",
+        "strength": 425.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 328.0
+        "type": "Ground",
+        "strength": 328.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 508.0
+        "type": "Ground",
+        "strength": 508.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 445.0
+        "type": "Normal",
+        "strength": 445.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 545.0
+        "type": "Normal",
+        "strength": 545.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 305.0
+        "type": "Fighting",
+        "strength": 305.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 405.0
+        "type": "Fighting",
+        "strength": 405.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 505.0
+        "type": "Fighting",
+        "strength": 505.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 294.0
+        "type": "Water",
+        "strength": 294.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 384.0
+        "type": "Water",
+        "strength": 384.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 509.0
+        "type": "Water",
+        "strength": 509.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 465.0
+        "type": "Fighting",
+        "strength": 465.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 465.0
+        "type": "Fighting",
+        "strength": 465.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 310.0
+        "type": "Bug",
+        "strength": 310.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 380.0
+        "type": "Bug",
+        "strength": 380.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 260.0
+        "type": "Bug",
+        "strength": 260.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 360.0
+        "type": "Bug",
+        "strength": 360.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 485.0
+        "type": "Bug",
+        "strength": 485.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 280.0
+        "type": "Grass",
+        "strength": 280.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 480.0
+        "type": "Grass",
+        "strength": 480.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 280.0
+        "type": "Grass",
+        "strength": 280.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 480.0
+        "type": "Grass",
+        "strength": 480.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 460.0
+        "type": "Water",
+        "strength": 460.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 460.0
+        "type": "Water",
+        "strength": 460.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 292.0
+        "type": "Ground",
+        "strength": 292.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 351.0
+        "type": "Ground",
+        "strength": 351.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 519.0
+        "type": "Ground",
+        "strength": 519.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 315.0
+        "type": "Fire",
+        "strength": 315.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 315.0
+        "type": "Ice",
+        "strength": 315.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 480.0
+        "type": "Fire",
+        "strength": 480.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 540.0
+        "type": "Fire",
+        "strength": 540.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 480.0
+        "type": "Ice",
+        "strength": 480.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 540.0
+        "type": "Ice",
+        "strength": 540.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 461.0
+        "type": "Grass",
+        "strength": 461.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 325.0
+        "type": "Bug",
+        "strength": 325.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 485.0
+        "type": "Bug",
+        "strength": 485.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 348.0
+        "type": "Dark",
+        "strength": 348.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 488.0
+        "type": "Dark",
+        "strength": 488.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 490.0
+        "type": "Psychic",
+        "strength": 490.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 303.0
+        "type": "Ghost",
+        "strength": 303.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 303.0
+        "type": "Ground",
+        "strength": 303.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 483.0
+        "type": "Ghost",
+        "strength": 483.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 355.0
+        "type": "Water",
+        "strength": 355.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 495.0
+        "type": "Water",
+        "strength": 495.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 401.0
+        "type": "Rock",
+        "strength": 401.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 567.0
+        "type": "Rock",
+        "strength": 567.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 329.0
+        "type": "Poison",
+        "strength": 329.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 474.0
+        "type": "Poison",
+        "strength": 474.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 330.0
+        "type": "Dark",
+        "strength": 330.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 510.0
+        "type": "Dark",
+        "strength": 510.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 300.0
+        "type": "Normal",
+        "strength": 300.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 470.0
+        "type": "Normal",
+        "strength": 470.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 290.0
+        "type": "Psychic",
+        "strength": 290.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 390.0
+        "type": "Psychic",
+        "strength": 390.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 490.0
+        "type": "Psychic",
+        "strength": 490.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 290.0
+        "type": "Psychic",
+        "strength": 290.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 370.0
+        "type": "Psychic",
+        "strength": 370.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 490.0
+        "type": "Psychic",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 305.0
+        "type": "Water",
+        "strength": 305.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 473.0
+        "type": "Water",
+        "strength": 473.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 305.0
+        "type": "Ice",
+        "strength": 305.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 395.0
+        "type": "Ice",
+        "strength": 395.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 535.0
+        "type": "Ice",
+        "strength": 535.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 335.0
+        "type": "Normal",
+        "strength": 335.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 475.0
+        "type": "Normal",
+        "strength": 475.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 428.0
+        "type": "Electric",
+        "strength": 428.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 315.0
+        "type": "Bug",
+        "strength": 315.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 495.0
+        "type": "Bug",
+        "strength": 495.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 294.0
+        "type": "Grass",
+        "strength": 294.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 464.0
+        "type": "Grass",
+        "strength": 464.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 335.0
+        "type": "Water",
+        "strength": 335.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 480.0
+        "type": "Water",
+        "strength": 480.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 470.0
+        "type": "Water",
+        "strength": 470.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 319.0
+        "type": "Bug",
+        "strength": 319.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 472.0
+        "type": "Bug",
+        "strength": 472.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 305.0
+        "type": "Grass",
+        "strength": 305.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 489.0
+        "type": "Grass",
+        "strength": 489.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 300.0
+        "type": "Steel",
+        "strength": 300.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 440.0
+        "type": "Steel",
+        "strength": 440.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 520.0
+        "type": "Steel",
+        "strength": 520.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 275.0
+        "type": "Electric",
+        "strength": 275.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 405.0
+        "type": "Electric",
+        "strength": 405.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 515.0
+        "type": "Electric",
+        "strength": 515.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 335.0
+        "type": "Psychic",
+        "strength": 335.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 485.0
+        "type": "Psychic",
+        "strength": 485.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 275.0
+        "type": "Ghost",
+        "strength": 275.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 370.0
+        "type": "Ghost",
+        "strength": 370.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 520.0
+        "type": "Ghost",
+        "strength": 520.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 320.0
+        "type": "Dragon",
+        "strength": 320.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 410.0
+        "type": "Dragon",
+        "strength": 410.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 540.0
+        "type": "Dragon",
+        "strength": 540.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 305.0
+        "type": "Ice",
+        "strength": 305.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 505.0
+        "type": "Ice",
+        "strength": 505.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 515.0
+        "type": "Ice",
+        "strength": 515.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 305.0
+        "type": "Bug",
+        "strength": 305.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 495.0
+        "type": "Bug",
+        "strength": 495.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 471.0
+        "type": "Ground",
+        "strength": 471.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 471.0
+        "type": "Ground",
+        "strength": 471.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 350.0
+        "type": "Fighting",
+        "strength": 350.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 510.0
+        "type": "Fighting",
+        "strength": 510.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 485.0
+        "type": "Dragon",
+        "strength": 485.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 303.0
+        "type": "Ground",
+        "strength": 303.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 483.0
+        "type": "Ground",
+        "strength": 483.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 340.0
+        "type": "Dark",
+        "strength": 340.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 490.0
+        "type": "Dark",
+        "strength": 490.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 350.0
+        "type": "Normal",
+        "strength": 350.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 510.0
+        "type": "Normal",
+        "strength": 510.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 370.0
+        "type": "Dark",
+        "strength": 370.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 510.0
+        "type": "Dark",
+        "strength": 510.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 484.0
+        "type": "Fire",
+        "strength": 484.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 484.0
+        "type": "Bug",
+        "strength": 484.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 300.0
+        "type": "Dark",
+        "strength": 300.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 420.0
+        "type": "Dark",
+        "strength": 420.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 600.0
+        "type": "Dark",
+        "strength": 600.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 360.0
+        "type": "Bug",
+        "strength": 360.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 550.0
+        "type": "Bug",
+        "strength": 550.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 580.0
+        "type": "Steel",
+        "strength": 580.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 580.0
+        "type": "Rock",
+        "strength": 580.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 580.0
+        "type": "Grass",
+        "strength": 580.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 580.0
+        "type": "Flying",
+        "strength": 580.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 580.0
+        "type": "Flying",
+        "strength": 580.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 580.0
+        "type": "Electric",
+        "strength": 580.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 580.0
+        "type": "Electric",
+        "strength": 580.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 680.0
+        "type": "Dragon",
+        "strength": 680.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 680.0
+        "type": "Dragon",
+        "strength": 680.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 600.0
+        "type": "Ground",
+        "strength": 600.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 600.0
+        "type": "Ground",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 660.0
+        "type": "Dragon",
+        "strength": 660.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 700.0
+        "type": "Dragon",
+        "strength": 700.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 580.0
+        "type": "Water",
+        "strength": 580.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 580.0
+        "type": "Water",
+        "strength": 580.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 600.0
+        "type": "Normal",
+        "strength": 600.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 600.0
+        "type": "Normal",
+        "strength": 600.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 600.0
+        "type": "Bug",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 313.0
+        "type": "Grass",
+        "strength": 313.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 307.0
+        "type": "Fire",
+        "strength": 307.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 409.0
+        "type": "Fire",
+        "strength": 409.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 534.0
+        "type": "Fire",
+        "strength": 534.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 314.0
+        "type": "Water",
+        "strength": 314.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 405.0
+        "type": "Water",
+        "strength": 405.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 640.0
+        "type": "Water",
+        "strength": 640.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 237.0
+        "type": "Normal",
+        "strength": 237.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 423.0
+        "type": "Normal",
+        "strength": 423.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 278.0
+        "type": "Normal",
+        "strength": 278.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 382.0
+        "type": "Fire",
+        "strength": 382.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 499.0
+        "type": "Fire",
+        "strength": 499.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 200.0
+        "type": "Bug",
+        "strength": 200.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 213.0
+        "type": "Bug",
+        "strength": 213.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 411.0
+        "type": "Bug",
+        "strength": 411.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 369.0
+        "type": "Fire",
+        "strength": 369.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 507.0
+        "type": "Fire",
+        "strength": 507.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 303.0
+        "type": "Fairy",
+        "strength": 303.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 371.0
+        "type": "Fairy",
+        "strength": 371.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 552.0
+        "type": "Fairy",
+        "strength": 552.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 350.0
+        "type": "Grass",
+        "strength": 350.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 531.0
+        "type": "Grass",
+        "strength": 531.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 348.0
+        "type": "Fighting",
+        "strength": 348.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 495.0
+        "type": "Fighting",
+        "strength": 495.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 472.0
+        "type": "Normal",
+        "strength": 472.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 355.0
+        "type": "Psychic",
+        "strength": 355.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 466.0
+        "type": "Psychic",
+        "strength": 466.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 466.0
+        "type": "Psychic",
+        "strength": 466.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 325.0
+        "type": "Steel",
+        "strength": 325.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 448.0
+        "type": "Steel",
+        "strength": 448.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 520.0
+        "type": "Steel",
+        "strength": 520.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 520.0
+        "type": "Steel",
+        "strength": 520.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 341.0
+        "type": "Fairy",
+        "strength": 341.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 462.0
+        "type": "Fairy",
+        "strength": 462.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 341.0
+        "type": "Fairy",
+        "strength": 341.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 480.0
+        "type": "Fairy",
+        "strength": 480.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 288.0
+        "type": "Dark",
+        "strength": 288.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 482.0
+        "type": "Dark",
+        "strength": 482.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 306.0
+        "type": "Rock",
+        "strength": 306.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 500.0
+        "type": "Rock",
+        "strength": 500.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 320.0
+        "type": "Poison",
+        "strength": 320.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 494.0
+        "type": "Poison",
+        "strength": 494.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 330.0
+        "type": "Water",
+        "strength": 330.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 500.0
+        "type": "Water",
+        "strength": 500.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 289.0
+        "type": "Electric",
+        "strength": 289.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 481.0
+        "type": "Electric",
+        "strength": 481.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 362.0
+        "type": "Rock",
+        "strength": 362.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 521.0
+        "type": "Rock",
+        "strength": 521.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 362.0
+        "type": "Rock",
+        "strength": 362.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 521.0
+        "type": "Rock",
+        "strength": 521.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 525.0
+        "type": "Fairy",
+        "strength": 525.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 500.0
+        "type": "Fighting",
+        "strength": 500.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 431.0
+        "type": "Electric",
+        "strength": 431.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 500.0
+        "type": "Rock",
+        "strength": 500.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 300.0
+        "type": "Dragon",
+        "strength": 300.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 452.0
+        "type": "Dragon",
+        "strength": 452.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 470.0
+        "type": "Steel",
+        "strength": 470.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 309.0
+        "type": "Ghost",
+        "strength": 309.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 474.0
+        "type": "Ghost",
+        "strength": 474.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 335.0
+        "type": "Ghost",
+        "strength": 335.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 335.0
+        "type": "Ghost",
+        "strength": 335.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 335.0
+        "type": "Ghost",
+        "strength": 335.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 335.0
+        "type": "Ghost",
+        "strength": 335.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 494.0
+        "type": "Ghost",
+        "strength": 494.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 494.0
+        "type": "Ghost",
+        "strength": 494.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 494.0
+        "type": "Ghost",
+        "strength": 494.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 494.0
+        "type": "Ghost",
+        "strength": 494.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 304.0
+        "type": "Ice",
+        "strength": 304.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 514.0
+        "type": "Ice",
+        "strength": 514.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 245.0
+        "type": "Flying",
+        "strength": 245.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 535.0
+        "type": "Flying",
+        "strength": 535.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 680.0
+        "type": "Fairy",
+        "strength": 680.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 680.0
+        "type": "Dark",
+        "strength": 680.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 486.0
+        "type": "Dragon",
+        "strength": 486.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 708.0
+        "type": "Dragon",
+        "strength": 708.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 600.0
+        "type": "Rock",
+        "strength": 600.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 700.0
+        "type": "Rock",
+        "strength": 700.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 600.0
+        "type": "Fire",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 320.0
+        "type": "Grass",
+        "strength": 320.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 420.0
+        "type": "Grass",
+        "strength": 420.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 320.0
+        "type": "Fire",
+        "strength": 320.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 420.0
+        "type": "Fire",
+        "strength": 420.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 530.0
+        "type": "Fire",
+        "strength": 530.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 320.0
+        "type": "Water",
+        "strength": 320.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 420.0
+        "type": "Water",
+        "strength": 420.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 265.0
+        "type": "Normal",
+        "strength": 265.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 355.0
+        "type": "Normal",
+        "strength": 355.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 485.0
+        "type": "Normal",
+        "strength": 485.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 253.0
+        "type": "Normal",
+        "strength": 253.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 418.0
+        "type": "Normal",
+        "strength": 418.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 300.0
+        "type": "Bug",
+        "strength": 300.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 400.0
+        "type": "Bug",
+        "strength": 400.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 500.0
+        "type": "Bug",
+        "strength": 500.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 338.0
+        "type": "Fighting",
+        "strength": 338.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 478.0
+        "type": "Fighting",
+        "strength": 478.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 476.0
+        "type": "Fire",
+        "strength": 476.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 476.0
+        "type": "Electric",
+        "strength": 476.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 476.0
+        "type": "Psychic",
+        "strength": 476.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 476.0
+        "type": "Ghost",
+        "strength": 476.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 304.0
+        "type": "Bug",
+        "strength": 304.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 464.0
+        "type": "Bug",
+        "strength": 464.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 280.0
+        "type": "Rock",
+        "strength": 280.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 280.0
+        "type": "Rock",
+        "strength": 280.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 487.0
+        "type": "Rock",
+        "strength": 487.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 487.0
+        "type": "Rock",
+        "strength": 487.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 487.0
+        "type": "Rock",
+        "strength": 487.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 175.0
+        "type": "Water",
+        "strength": 175.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 620.0
+        "type": "Water",
+        "strength": 620.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 305.0
+        "type": "Poison",
+        "strength": 305.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 495.0
+        "type": "Poison",
+        "strength": 495.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 385.0
+        "type": "Ground",
+        "strength": 385.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 500.0
+        "type": "Ground",
+        "strength": 500.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 269.0
+        "type": "Water",
+        "strength": 269.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 454.0
+        "type": "Water",
+        "strength": 454.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 250.0
+        "type": "Grass",
+        "strength": 250.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 480.0
+        "type": "Grass",
+        "strength": 480.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 285.0
+        "type": "Grass",
+        "strength": 285.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 405.0
+        "type": "Grass",
+        "strength": 405.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 320.0
+        "type": "Poison",
+        "strength": 320.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 480.0
+        "type": "Poison",
+        "strength": 480.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 340.0
+        "type": "Normal",
+        "strength": 340.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 500.0
+        "type": "Normal",
+        "strength": 500.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 210.0
+        "type": "Grass",
+        "strength": 210.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 290.0
+        "type": "Grass",
+        "strength": 290.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 510.0
+        "type": "Grass",
+        "strength": 510.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 485.0
+        "type": "Fairy",
+        "strength": 485.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 490.0
+        "type": "Fighting",
+        "strength": 490.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 230.0
+        "type": "Bug",
+        "strength": 230.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 530.0
+        "type": "Bug",
+        "strength": 530.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 320.0
+        "type": "Ghost",
+        "strength": 320.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 480.0
+        "type": "Ghost",
+        "strength": 480.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 410.0
+        "type": "Water",
+        "strength": 410.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 534.0
+        "type": "Normal",
+        "strength": 534.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 570.0
+        "type": "Normal",
+        "strength": 570.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 440.0
+        "type": "Rock",
+        "strength": 440.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 500.0
+        "type": "Rock",
+        "strength": 500.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 480.0
+        "type": "Normal",
+        "strength": 480.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 485.0
+        "type": "Fire",
+        "strength": 485.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 435.0
+        "type": "Electric",
+        "strength": 435.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 476.0
+        "type": "Ghost",
+        "strength": 476.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 475.0
+        "type": "Water",
+        "strength": 475.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 485.0
+        "type": "Normal",
+        "strength": 485.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 517.0
+        "type": "Ghost",
+        "strength": 517.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 300.0
+        "type": "Dragon",
+        "strength": 300.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 420.0
+        "type": "Dragon",
+        "strength": 420.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 570.0
+        "type": "Electric",
+        "strength": 570.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 570.0
+        "type": "Psychic",
+        "strength": 570.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 570.0
+        "type": "Grass",
+        "strength": 570.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 570.0
+        "type": "Water",
+        "strength": 570.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 200.0
+        "type": "Psychic",
+        "strength": 200.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 400.0
+        "type": "Psychic",
+        "strength": 400.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 570.0
+        "type": "Rock",
+        "strength": 570.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 570.0
+        "type": "Bug",
+        "strength": 570.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 570.0
+        "type": "Bug",
+        "strength": 570.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 570.0
+        "type": "Electric",
+        "strength": 570.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 570.0
+        "type": "Steel",
+        "strength": 570.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 570.0
+        "type": "Grass",
+        "strength": 570.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 570.0
+        "type": "Dark",
+        "strength": 570.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 600.0
+        "type": "Psychic",
+        "strength": 600.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 680.0
+        "type": "Psychic",
+        "strength": 680.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 754.0
+        "type": "Psychic",
+        "strength": 754.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 600.0
+        "type": "Steel",
+        "strength": 600.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 600.0
+        "type": "Fighting",
+        "strength": 600.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 420.0
+        "type": "Poison",
+        "strength": 420.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 540.0
+        "type": "Poison",
+        "strength": 540.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 570.0
+        "type": "Rock",
+        "strength": 570.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 570.0
+        "type": "Fire",
+        "strength": 570.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 600.0
+        "type": "Electric",
+        "strength": 600.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 300.0
+        "type": "Steel",
+        "strength": 300.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 600.0
+        "type": "Steel",
+        "strength": 600.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 310.0
+        "type": "Grass",
+        "strength": 310.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 420.0
+        "type": "Grass",
+        "strength": 420.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 530.0
+        "type": "Grass",
+        "strength": 530.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 310.0
+        "type": "Fire",
+        "strength": 310.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 420.0
+        "type": "Fire",
+        "strength": 420.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 530.0
+        "type": "Fire",
+        "strength": 530.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 310.0
+        "type": "Water",
+        "strength": 310.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 420.0
+        "type": "Water",
+        "strength": 420.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 530.0
+        "type": "Water",
+        "strength": 530.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 275.0
+        "type": "Normal",
+        "strength": 275.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 460.0
+        "type": "Normal",
+        "strength": 460.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 245.0
+        "type": "Flying",
+        "strength": 245.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 365.0
+        "type": "Flying",
+        "strength": 365.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 495.0
+        "type": "Flying",
+        "strength": 495.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 180.0
+        "type": "Bug",
+        "strength": 180.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 335.0
+        "type": "Bug",
+        "strength": 335.0
     },
     {
-        "Type": "Bug",
-        "SpeciesStrength": 505.0
+        "type": "Bug",
+        "strength": 505.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 245.0
+        "type": "Dark",
+        "strength": 245.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 455.0
+        "type": "Dark",
+        "strength": 455.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 250.0
+        "type": "Grass",
+        "strength": 250.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 460.0
+        "type": "Grass",
+        "strength": 460.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 270.0
+        "type": "Normal",
+        "strength": 270.0
     },
     {
-        "Type": "Normal",
-        "SpeciesStrength": 490.0
+        "type": "Normal",
+        "strength": 490.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 284.0
+        "type": "Water",
+        "strength": 284.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 485.0
+        "type": "Water",
+        "strength": 485.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 270.0
+        "type": "Electric",
+        "strength": 270.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 490.0
+        "type": "Electric",
+        "strength": 490.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 240.0
+        "type": "Rock",
+        "strength": 240.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 410.0
+        "type": "Rock",
+        "strength": 410.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 510.0
+        "type": "Rock",
+        "strength": 510.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 260.0
+        "type": "Grass",
+        "strength": 260.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 485.0
+        "type": "Grass",
+        "strength": 485.0
     },
     {
-        "Type": "Grass",
-        "SpeciesStrength": 485.0
+        "type": "Grass",
+        "strength": 485.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 315.0
+        "type": "Ground",
+        "strength": 315.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 510.0
+        "type": "Ground",
+        "strength": 510.0
     },
     {
-        "Type": "Flying",
-        "SpeciesStrength": 475.0
+        "type": "Flying",
+        "strength": 475.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 280.0
+        "type": "Water",
+        "strength": 280.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 490.0
+        "type": "Water",
+        "strength": 490.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 242.0
+        "type": "Electric",
+        "strength": 242.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 502.0
+        "type": "Electric",
+        "strength": 502.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 502.0
+        "type": "Electric",
+        "strength": 502.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 305.0
+        "type": "Fire",
+        "strength": 305.0
     },
     {
-        "Type": "Fire",
-        "SpeciesStrength": 525.0
+        "type": "Fire",
+        "strength": 525.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 310.0
+        "type": "Fighting",
+        "strength": 310.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 480.0
+        "type": "Fighting",
+        "strength": 480.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 308.0
+        "type": "Ghost",
+        "strength": 308.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 508.0
+        "type": "Ghost",
+        "strength": 508.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 265.0
+        "type": "Psychic",
+        "strength": 265.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 370.0
+        "type": "Psychic",
+        "strength": 370.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 510.0
+        "type": "Psychic",
+        "strength": 510.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 265.0
+        "type": "Dark",
+        "strength": 265.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 370.0
+        "type": "Dark",
+        "strength": 370.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 510.0
+        "type": "Dark",
+        "strength": 510.0
     },
     {
-        "Type": "Dark",
-        "SpeciesStrength": 520.0
+        "type": "Dark",
+        "strength": 520.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 440.0
+        "type": "Steel",
+        "strength": 440.0
     },
     {
-        "Type": "Ghost",
-        "SpeciesStrength": 510.0
+        "type": "Ghost",
+        "strength": 510.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 507.0
+        "type": "Fighting",
+        "strength": 507.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 520.0
+        "type": "Psychic",
+        "strength": 520.0
     },
     {
-        "Type": "Ground",
-        "SpeciesStrength": 483.0
+        "type": "Ground",
+        "strength": 483.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 270.0
+        "type": "Fairy",
+        "strength": 270.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 495.0
+        "type": "Fairy",
+        "strength": 495.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 470.0
+        "type": "Fighting",
+        "strength": 470.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 435.0
+        "type": "Electric",
+        "strength": 435.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 185.0
+        "type": "Ice",
+        "strength": 185.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 475.0
+        "type": "Ice",
+        "strength": 475.0
     },
     {
-        "Type": "Rock",
-        "SpeciesStrength": 470.0
+        "type": "Rock",
+        "strength": 470.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 470.0
+        "type": "Ice",
+        "strength": 470.0
     },
     {
-        "Type": "Ice",
-        "SpeciesStrength": 470.0
+        "type": "Ice",
+        "strength": 470.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 475.0
+        "type": "Psychic",
+        "strength": 475.0
     },
     {
-        "Type": "Psychic",
-        "SpeciesStrength": 475.0
+        "type": "Psychic",
+        "strength": 475.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 436.0
+        "type": "Electric",
+        "strength": 436.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 436.0
+        "type": "Electric",
+        "strength": 436.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 330.0
+        "type": "Steel",
+        "strength": 330.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 500.0
+        "type": "Steel",
+        "strength": 500.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 505.0
+        "type": "Electric",
+        "strength": 505.0
     },
     {
-        "Type": "Electric",
-        "SpeciesStrength": 505.0
+        "type": "Electric",
+        "strength": 505.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 505.0
+        "type": "Water",
+        "strength": 505.0
     },
     {
-        "Type": "Water",
-        "SpeciesStrength": 505.0
+        "type": "Water",
+        "strength": 505.0
     },
     {
-        "Type": "Steel",
-        "SpeciesStrength": 535.0
+        "type": "Steel",
+        "strength": 535.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 270.0
+        "type": "Dragon",
+        "strength": 270.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 410.0
+        "type": "Dragon",
+        "strength": 410.0
     },
     {
-        "Type": "Dragon",
-        "SpeciesStrength": 600.0
+        "type": "Dragon",
+        "strength": 600.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 720.0
+        "type": "Fairy",
+        "strength": 720.0
     },
     {
-        "Type": "Fairy",
-        "SpeciesStrength": 670.0
+        "type": "Fairy",
+        "strength": 670.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 720.0
+        "type": "Fighting",
+        "strength": 720.0
     },
     {
-        "Type": "Fighting",
-        "SpeciesStrength": 670.0
+        "type": "Fighting",
+        "strength": 670.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 690.0
+        "type": "Poison",
+        "strength": 690.0
     },
     {
-        "Type": "Poison",
-        "SpeciesStrength": 1125.0
+        "type": "Poison",
+        "strength": 1125.0
     }
 ]
