@@ -7519,6 +7519,80 @@ footer {
 
 
 /* original website css */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: #fefeff;
+}
+
+.layout_padding {
+  padding: 75px 0;
+}
+
+.layout_padding2 {
+  padding: 45px 0;
+}
+
+.layout_padding2-top {
+  padding-top: 45px;
+}
+
+.layout_padding-top {
+  padding-top: 75px;
+}
+
+.layout_padding-bottom {
+  padding-bottom: 75px;
+}
+
+.call_to-btn {
+  display: inline-block;
+  padding: 15px 60px;
+
+  border-radius: 100px;
+  font-size: 20px;
+  background-color: #ffd038;
+  color: #262627;
+  font-weight: 600;
+  transition: all 0.3s ease 0s;
+}
+
+.hero_section .call_to-btn {
+  width: 255px;
+  position:relative;
+  left:60px;
+
+}
+
+.call_to-btn img {
+  width: 18px;
+  margin-left: 10px;
+}
+
+.btn_on-hover {
+  transition: all 0.3s ease 0s;
+}
+
+.call_to-btn:hover,
+.btn_on-hover:hover {
+  -webkit-box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 5px 10px -5px rgba(0, 0, 0, 0.7);
+  transform: translateY(-7px);
+}
+
+.main-heading {
+  color: #082465;
+  font-weight: bold;
+  text-align: center;
+}
+/*header section*/
 .header_section {
   padding-top: 10px;
   font-family: "Poppins", sans-serif;
@@ -7652,6 +7726,59 @@ a:focus {
   background-size: 40px;
 }
 
+/*end header section*/
+
+
+
+
+
+
+/* hero section */
+.hero-container {
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 325px;
+}
+
+.hero_detail-box {
+  width: 40%;
+}
+
+.hero_img-container {
+  width: 68%;
+  margin-right: -8%;
+  margin-top: -5%;
+}
+
+.hero_img-container img {
+  width: 90%;
+}
+
+.hero_detail-box {
+  color: #fefeff;
+}
+
+.hero_detail-box h7 {
+  font-size: 55px;
+  color: #fefeff;
+  font-weight: 600;
+  width: 70%;
+}
+
+.hero_detail-box p {
+  font-size: 20px;
+  #D8BFD8;
+  font-weight: 30;
+}
+
+
+.hero_detail-box p {
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+/* end hero section */
+
 
 /* common style for some sections */
 .common_style > section {
@@ -7727,7 +7854,3 @@ a:focus {
 #csv {
   display: none;
 }
-
-
-
-
