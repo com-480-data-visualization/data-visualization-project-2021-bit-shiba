@@ -9,9 +9,9 @@
 [Milestone 1](#milestone-1-friday-3rd-april-5pm) • [Milestone 2](#milestone-2-friday-1st-may-5pm) • [Milestone 3](#milestone-3-thursday-28th-may-5pm)
 
 ### Pick up your most coveted Pokémon!
-When it comes to Pokémon, you may have a broad outline of it from the games, the anime, the movies, and the trading cards, or are completely bewildered by the Pokémon mania that’s gripping the Internet right now. Regardless of which camp you are in, sit back, grab your beverage of choice, and relax—we are going to get a detailed look of Pokémons and help you choose your favorite pocket monsters.
+When it comes to Pokémon, you may have a broad outline of it from the games, the anime, the movies, and the trading cards, or are completely bewildered by the Pokémon mania that’s gripping the Internet right now. Regardless of which camp you are in, sit back, grab your beverage of choice, and relax—we are going to get a detailed look of Pokémon and help you choose your favorite pocket monsters.
 
-We attempt to bring insightful visualizations from different aspects to help users know Pokémons in detail. In the beginning, if Pokémon Trainers want to have their own pocket monsters, they need Poké balls to help them capture, transport, and train Pokémons. We showcase different types of Pokémons in Poké balls. Then, we showcase the relationship between the Pokémon's primary type and their secondary type. Furthermore, we showcase the Pokémon's species strength according to different types. In the last part, we want users to choose a their own Pokémon team and know the team's strength and weakness to help Pokémon Trainers attend a competition successfully.
+We attempt to bring insightful visualizations from different aspects to help users know Pokémons in detail. In the beginning, if Pokémon Trainers want to have their own pocket monsters, they need Poké balls to help them capture, transport, and train Pokémon. We showcase different types of Pokémons in Poké balls. Then, we showcase the relationship between the Pokémon's primary type and their secondary type. Furthermore, we showcase the Pokémon's species strength according to different types. In the last part, we want users to choose a their own Pokémon team and know the team's strength and weakness to help Pokémon Trainers attend a competition successfully.
 
 ### Problem statement
 
@@ -39,7 +39,7 @@ We have 1028 Pokémon and each of them has 48 different characters. There are a 
 
 
 ### Final result
-Our website contain four different visualizations. The first part is a bubble diagram, presented in the form of "Poke balls". Then, in the second part, we wanna use the chord diagram to get an overview of the mix-type Pokémons. The third part is a violin graph to show the species strength distribution. Finally, we wanna users to choose their favorite Pokémons to form a team and exhibit their strength and weakness.
+Our website contain four different visualizations. The first part is a bubble diagram, presented in the form of "Poke balls". Then, in the second part, we wanna use the chord diagram to get an overview of the mix-type Pokémon. The third part is a violin graph to show the species strength distribution. Finally, we wanna users to choose their favorite Pokémon to form a team and exhibit their strength and weakness.
 
 
 ## Milestone 1 (23rd April, 5pm)
