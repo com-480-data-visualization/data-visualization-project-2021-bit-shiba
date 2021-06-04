@@ -41,8 +41,8 @@ We have 1028 Pokémon and each of them has 48 different characters. There are a 
 ### Final result
 Our website contain four different visualizations. The first part is a bubble diagram, presented in the form of "Poke balls". Then, in the second part, we wanna use the chord diagram to get an overview of the mix-type Pokémon. The third part is a violin graph to show the species strength distribution. Finally, we wanna users to choose their favorite Pokémon to form a team and exhibit their strength and weakness.
 
-The following links are our visualization website and introduction video
-Visualization website: https://com-480-data-visualization.github.io/data-visualization-project-2021-bit-shiba/index.html
+The following links are our visualization website and introduction video<br>
+Visualization website: https://com-480-data-visualization.github.io/data-visualization-project-2021-bit-shiba/index.html  <br>
 Introduction video: https://www.youtube.com/watch?v=qEggkzq_a-g&ab_channel=siranli
 
 
