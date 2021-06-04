@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Bit—Shiba</title>
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <!-- progress barstle -->
+    <link rel="stylesheet" href="css/css-circular-prog-bar.css" />
+    <!-- fonts style -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- font wesome stylesheet -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+    />
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="css/responsive.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="css/css-circular-prog-bar.css" />
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+    <script src="https://marketing-demo.s3-eu-west-1.amazonaws.com/violinFunction/processViolin.js"></script>
+  </head>
+
+  <body class="sub_page">
+    <div class="top_container">
+      <!-- header section strats -->
+      <header class="header_section">
+        <div class="container">
+          <nav class="navbar navbar-expand-lg custom_nav-container">
+            <a class="navbar-brand" href="index.html">
+              <span>Bit-Shiba</span></a
+            >
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <div
+                class="d-flex ml-auto flex-column flex-lg-row align-items-center"
+              >
+                <ul class="navbar-nav">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="index.html">
+                      Home <span class="sr-only">(current)</span></a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="pokeball.html"> Poke ball </a>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="connection.html"> Connection </a>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="distribution.html">Distribution</a>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="cultivation.html"> Cultivation </a>
+                  </li>
+
+                  <li class="nav-item">
+                    <a class="nav-link" href="select.html">Select</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+    </div>
+    <!-- end header section -->
+
+    <div class="common_style">
+      <!-- select section -->
+      <section class="select_section">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <!-- 图表容器 DOM -->
+              <div id="container" style="width: 1100px; height: 500px;"></div>
+              <!-- 引入 highcharts.js -->
+              <script type="text/javascript" src="js/highcharts.js"></script>
+              <script src="js/violin.js"></script>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <h5>Distribution</h5>
+          <p>
+            Then we focus on the species strength, which is the sum of these six abilities. 
+            Species strength may be the most practical variable to Measure the strength of Pokémon. 
+            There is a saying among players, we reckon that this is a quite powerful Pokémon when the 
+            species strength value is more than 550. Here a 'Powerful' Pokémon means it's better than 
+            the majority of Pokémon.
+           <br><br>
+            This visualization aims to help players to know Pokémon with high species strength. 
+            Each violin in our graph represents the data from the same type, such as Grass, Fire, Water, and so on. 
+            In this part, we use a violin graph to show the Pokémon's species strength. 
+            The y-label is the Pokémon's species strength, while the x-label is the primary type of Pokémon. 
+            We can see Dragon Pokémon tend to have the highest species strength among all the types. 
+            This is also the same as players' intuition.
+          <br><br>
+            As for the interactive part, when the viewer puts his mouse on each violin, for example on the Grass type's violin, it shows 1) 
+            the maximum of grass Pokémon's species strength; 2)the minimum of grass Pokémon's species strength; 3)the 
+            medium of grass Pokémon's species strength; 4) the Q1 and Q3 of grass Pokémon's species strength.
+          <br><br>
+            This can help players have a more type-based general view of Pokémon, which helps players to narrow 
+            down their target range and find their one and only coveted Pokémon team.
+          </p>        
+        </div>
+      </section>
+
+      <!-- end select section -->
+    </div>
+  </body>
+</html>
